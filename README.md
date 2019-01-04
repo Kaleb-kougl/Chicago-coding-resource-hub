@@ -57,6 +57,7 @@ Be sure to set up your own [Firebase](https://console.firebase.google.com/u/0/) 
 
 ## Issues Related To Project
 
+* Update README
 * Replace education API.
 * Condense firebase to being called once for all pages.
 * Move out of firebase server and into Node.js/mySQL server.
