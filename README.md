@@ -57,10 +57,8 @@ Be sure to set up your own [Firebase](https://console.firebase.google.com/u/0/) 
 
 ## Issues Related To Project
 
-* Search by keyword functionality implemented, but not properly explained to the user yet.
 * Replace education API.
-* Insert our own links.
-* Condense firebase to being called once for all pages. (export module?)
+* Condense firebase to being called once for all pages.
 * Move out of firebase server and into Node.js/mySQL server.
 * Improve UX for user clarity.
 * Add mailboxlayer API to check for valid email addresses.
@@ -69,9 +67,8 @@ Be sure to set up your own [Firebase](https://console.firebase.google.com/u/0/) 
 * Check out Chicago's open data sets, see how they can be integrated.
 * Gain access to Google Maps API, include business locations in small div within listing.
 * Glassdoor API? Show rating of company, former employee reviews, etc.
-* Move away from Bootstrap, do more home-grown CSS and possibly Materialize.
 * Build animated landing page.
-* Feed doesn't seem to load on the first click of the radio toggle buttons? Loading wheel spins, plays, and then the feed doesn't load. It takes a couple of clicks to get it to work. Do we need to load the APIs on page load and have them ready to be displayed to solve this problem, and not on click?
+* Fix loading wheel
 * Disable clicking buttons again until animation completes.
 * Add loading animation for chatbox, because it has white space on load.
 
